@@ -5,6 +5,10 @@ This repository stores the source code and other artifacts used in our paper acc
 ## Content
 TBA
 
+*Note:* 
+- Trajectory points are called bunnies in the code.
+- The TPStepper table from the article is called bunny, the table containing the target positions and speeds is called bunny_e.
+
 ## Citation
 Bibtex:
 ```
